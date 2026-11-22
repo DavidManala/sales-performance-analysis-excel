@@ -124,3 +124,4 @@ David Maripaganye Manala
 Data Analyst | BSc Mathematical Science Graduate
 
 [LinkedIn]( https://www.linkedin.com/in/david-manala-589800281/ )
+| [Portfolio]( https://davidmanalaportfolio.lovable.app/#projects )
