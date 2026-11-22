@@ -63,6 +63,9 @@ Key fields include:
 
 The dataset was used to calculate revenue, cost, profit and profit margin.
 
+<img width="1837" height="715" alt="data" src="https://github.com/user-attachments/assets/403a4071-d968-476b-b7d9-fcedfe60b5b7" />
+
+
 ## Project Process
 1. Data Inspection and Cleaning
 -	Inspected the dataset for missing values.
@@ -117,6 +120,7 @@ It also demonstrated the importance of data quality and the ability to translate
 
 ## Author
 David Maripaganye Manala
+
 Data Analyst | BSc Mathematical Science Graduate
 
 [LinkedIn]( https://www.linkedin.com/in/david-manala-589800281/ )
