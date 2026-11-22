@@ -1,4 +1,5 @@
 #Sales Performance Analysis Dashboard (2024–2025)
+
 ##Project Overview
 This project analyses sales performance for a retail business using Microsoft Excel. The purpose was to transform raw sales data into meaningful business insights that can support management decision-making.
 
