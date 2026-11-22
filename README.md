@@ -62,3 +62,61 @@ Key fields include:
 -	Payment Method
 
 The dataset was used to calculate revenue, cost, profit and profit margin.
+
+## Project Process
+1. Data Inspection and Cleaning
+-	Inspected the dataset for missing values.
+-	Checked for duplicate records.
+-	Standardised inconsistent text entries.
+-	Corrected data formats.
+-	Identified missing discount information.
+
+2. Data Preparation
+Created calculated columns to support the analysis, including:
+-	Total Revenue Sales
+-	Total Cost
+-	Profit
+-	Profit Margin
+-	Month
+3. Data Analysis
+Created PivotTables and PivotCharts to analyse:
+-	Overall sales performance
+-	Top-performing products
+-	Regional performance
+-	Sales representative performance
+-	Sales channel performance
+-	Monthly sales trends
+
+4. Dashboard Development
+
+- Developed an Excel dashboard to present key performance indicators and sales analysis in a clear and accessible format.
+
+5. Business Insights
+
+- Interpreted the results and developed recommendations to help management understand business performance and identify opportunities for improvement.
+
+## Key Findings
+The analysis identified the following:
+-	Total recorded revenue was approximately R8.13 million.
+-	Total recorded profit was approximately R2.24 million.
+-	Overall recorded profit margin was approximately 27.53%.
+-	Laptops were the highest revenue-generating product.
+-	The East region generated the highest regional revenue.
+-	S. Botha generated the highest revenue among the identified sales representatives.
+-	Online was the strongest-performing sales channel.
+
+## Data Quality Limitation
+Eight transactions contained missing discount values.
+Since the actual discount percentages could not be established, I did not assume that the missing values represented a 0% discount.
+Excel formulas were adjusted to leave revenue and profit blank for these transactions. Consequently, the financial results are based on 1,192 transactions with recorded discount information.
+The missing values were documented as a data-quality limitation and require further investigation using the original business records.
+
+## Conclusion
+This project strengthened my practical skills in Microsoft Excel, particularly data cleaning, formula development, PivotTables, PivotCharts, dashboard development and business analysis.
+It also demonstrated the importance of data quality and the ability to translate numerical results into meaningful business recommendations.
+
+## Author
+David Maripaganye Manala
+Data Analyst | BSc Mathematical Science Graduate
+
+[LinkedIn]( https://www.linkedin.com/in/david-manala-589800281/ )
